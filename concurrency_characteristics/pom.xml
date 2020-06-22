@@ -35,17 +35,6 @@
             <version>0.7</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.openjdk.jcstress</groupId>
-            <artifactId>jcstress-core</artifactId>
-            <version>${jcstress.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.openjdk.jcstress</groupId>
-            <artifactId>jcstress-samples</artifactId>
-            <version>${jcstress.version}</version>
-        </dependency>
-
 
     </dependencies>
 </project>

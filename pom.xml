@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>concurrency_characteristics</module>
-        <module>1111</module>
+        <module>concurrency_characteristics1</module>
     </modules>
 
 
