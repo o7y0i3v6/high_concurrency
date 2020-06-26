@@ -1,5 +1,5 @@
 ##### 在高并发框架下两个线程可能的运行情况
-```
+```java
 @JCStressTest
 @Outcome(id={"1","4"},expect= Expect.ACCEPTABLE,desc="ok")
 @Outcome(id="0",expect= Expect.ACCEPTABLE_INTERESTING,desc="danger")

@@ -20,9 +20,9 @@ import org.openjdk.jcstress.infra.results.I_Result;
  *
  */
 @JCStressTest
-//如果在I_Result里保存的结果是1和4,打印结果"ok",
+//如果在I_Result里保存的结果是1和4,打印结果
 @Outcome(id={"1","4"},expect= Expect.ACCEPTABLE,desc="the order is normal")
-//如果在I_Result里保存的结果是0,打印"danger"
+//如果在I_Result里保存的结果是0,打印
 @Outcome(id="0",expect= Expect.UNKNOWN,desc="the order is change")
 @State
 public class Demo1 {

@@ -1,0 +1,6 @@
+demo\Demo1.class
+org\openjdk\jcstress\infra\results\I_Result_jcstress_c2.class
+demo\Demo1_jcstress.class
+META-INF\TestList
+org\openjdk\jcstress\infra\results\I_Result_jcstress.class
+org\openjdk\jcstress\infra\results\I_Result_jcstress_c1.class
